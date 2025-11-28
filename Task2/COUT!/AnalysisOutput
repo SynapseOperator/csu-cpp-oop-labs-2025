@@ -1,0 +1,20 @@
+(1)
+Default constructor called.
+Constructor called.
+a=0,b=0
+a=4,b=8
+(2) Date多构造
+10/13/2005
+12/30/2005
+10/1/2005
+1/1/2005
+(3)
+Initalizing default
+Initalizing default
+0  0
+Destructor is active
+Destructor is active
+;先构造 2 个对象，默认 num=0, fl=0；
+;array[1] 的 getint/getfloat 输出 0 0；
+;main 结束时调用 2 次析构
+(4)????????????
